@@ -1,0 +1,8 @@
+{
+  "name": "share",
+  "description": "Upload files or directories to a temporary sharing service and get a download link",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dhruv Pant"
+  }
+}

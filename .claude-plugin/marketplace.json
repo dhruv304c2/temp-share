@@ -1,0 +1,20 @@
+{
+  "name": "dhruv-claude-plugins",
+  "owner": {
+    "name": "Dhruv Pant"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Dhruv Pant",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "share",
+      "source": "./share",
+      "description": "Upload files or directories to a temporary sharing service and get a download link",
+      "version": "1.0.0",
+      "keywords": ["share", "upload", "file-transfer"],
+      "category": "utilities"
+    }
+  ]
+}
