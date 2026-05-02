@@ -2,6 +2,10 @@
 
 A Claude Code plugin that uploads files or directories to a temporary sharing service and returns a download link.
 
+## Why?
+
+When using Claude Code in headless or remote-control mode (SSH, CI, cloud VMs), there's no file browser to grab files from the machine. `/share` gives you a download link you can open on any device — no `scp`, no port forwarding, no fuss.
+
 ## Install
 
 ```bash
